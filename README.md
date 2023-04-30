@@ -1,5 +1,5 @@
 dfhfdlh
-local new text
+new text
 ÒÅÊÑÒ
 
 more text
